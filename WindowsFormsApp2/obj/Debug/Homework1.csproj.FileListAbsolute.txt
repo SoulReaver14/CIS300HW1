@@ -1,0 +1,10 @@
+C:\Users\agarv\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\agarv\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\agarv\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\agarv\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Homework1.csprojAssemblyReference.cache
+C:\Users\agarv\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.UserInterface.resources
+C:\Users\agarv\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\agarv\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Homework1.csproj.GenerateResource.cache
+C:\Users\agarv\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Homework1.csproj.CoreCompileInputs.cache
+C:\Users\agarv\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\agarv\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
